@@ -4,7 +4,7 @@
 
 I'm a passionate web developer with skills in both front-end and back-end development.
 
-- 🔭 I’m currently working on [Your Current Project]
+<!-- - 🔭 I’m currently working on [Your Current Project] -->
 - 🌱 I’m currently learning more about TypeScript and React
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about web development, Node.js, and databases
