@@ -33,26 +33,6 @@ I'm a motivated Web Developer dedicated to continuous learning and rapid skill a
 ### Other Skills
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
 
-## 🧑‍💻 Work Experience
-
-**Freelancer**
-- May 2020 - December 2022
-  - Parcel Sorting Staff: Gained self-management and prioritization skills.
-  - Social Media Marketing: Managed Line Official Account and executed Facebook Ads.
-  - Customer Service: Acquired communication and problem-solving skills.
-  - Website Development: Provided backend services for The Enrich Holding Co., Ltd.
-
-**IT Support at Tech Unique Co., Ltd**
-- January 2023 - March 2023
-  - Provided technical support and troubleshooting for hardware and software issues.
-
-**Tester at Tech Unique Co., Ltd**
-- April 2023 - September 2023
-  - Developed coding and test scripting skills.
-  - Analyzed end-user requirements and programming feasibility.
-
-**Junior Developer at Tech Unique Co., Ltd**
-- October 2023 - Present
 
 ## 📈 GitHub Stats
 
