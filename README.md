@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [ATICHON] 👋
 
-![Header](https://your-image-url-here)
+![Header](https://avatars.githubusercontent.com/u/156568756?v=4)
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ I'm a passionate web developer with skills in both front-end and back-end develo
 - 🌱 I’m currently learning more about TypeScript and React
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about web development, Node.js, and databases
-- 📫 How to reach me: [Your Email Address]
+- 📫 How to reach me: [atichon.tb@gmail.com]
 - ⚡ Fun fact: [A fun fact about you]
 
 ## 🛠️ My Skills
@@ -38,7 +38,7 @@ I'm a passionate web developer with skills in both front-end and back-end develo
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=atichonsathian&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ## 🔗 Connect with Me
 
