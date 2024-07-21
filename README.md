@@ -1,7 +1,5 @@
 # Hi there, I'm [ATICHON] 👋
 
-![Header](https://avatars.githubusercontent.com/u/156568756?v=4)
-
 ## 🚀 About Me
 
 I'm a passionate web developer with skills in both front-end and back-end development.
